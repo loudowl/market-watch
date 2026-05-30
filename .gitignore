@@ -1,0 +1,8 @@
+backend/.env
+frontend/.env
+
+# Dependencies
+node_modules/
+
+# Production build
+build/
